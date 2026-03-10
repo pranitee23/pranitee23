@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranitee%20Majukar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranitee-majukar23/)
 [![GitHub](https://img.shields.io/badge/GitHub-pranitee23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranitee23)
-[![IEEE Paper](https://img.shields.io/badge/IEEE-Best%20Paper%20Award%20🏆-00629B?style=for-the-badge&logo=ieee&logoColor=white)](#)
+[![IEEE Paper](https://img.shields.io/badge/IEEE-Best%20Paper%20Award%20🏆-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/9917635)
 
 </div>
 
@@ -20,9 +20,7 @@
 
 > *"I don't just build models — I build systems that make decisions at scale."*
 
-I am an **AI/ML and Data Science Engineer** with 3+ years of experience spanning the full spectrum of applied machine learning: designing and shipping production-grade pipelines at **WHOOP** and **Quantiphi**, processing **1.5TB+ time-series records**, running **NLP and transformer-based document intelligence** systems, and building **LLM-powered agentic workflows** with real business impact. On the analytics side, I translate complex model outputs into stakeholder-ready dashboards, causal analyses, and cost-benefit decisions across cross-functional teams.
-
-My work sits at the intersection of **Generative AI**, **Agentic Systems**, **Computer Vision**, **NLP**, and **scalable data engineering**, with a strong emphasis on responsible, explainable, and production-ready AI.
+I build AI systems that go beyond prototypes and actually ship. With 3+ years across **WHOOP**, **Quantiphi**, and research, I've worked on everything from LLM-powered agents and transformer-based document intelligence to computer vision pipelines and 1.5TB+ data infrastructure. I care just as much about the insight at the end as the engineering behind it.
 
 - 🎓 **MS Computer Software Engineering** — Northeastern University
 - 🏆 **IEEE Best Paper Award** — Speech Emotion Recognition using 1D CNN-LSTM
@@ -116,11 +114,11 @@ My work sits at the intersection of **Generative AI**, **Agentic Systems**, **Co
 |---|---|
 | 🤖 **Agentic AI** | Multi-agent forecasting & supplier selection (CrewAI, LangChain, MCP/A2A), RAG-based claims automation (Gemini, Pinecone, RAGAS), GPT-4 executive summarization |
 | 👁️ **Computer Vision** | 3D scene reconstruction (BevFormer, EmerNeRF, DepthAnythingV2), real-time face tracking (YOLOv8, DeepSORT, TensorRT), BEV spatial modeling from LiDAR + RGB |
-| 📝 **NLP & Text Intelligence** | BERT/LLM fine-tuning for document extraction, OCR + IDP pipelines (AWS Textract, PaddleOCR), HITL confidence scoring, sentiment analysis on 6M+ reviews |
-| 📈 **Predictive Modeling & Forecasting** | Credit fraud detection (92% recall), demand/staffing forecasting (ARIMA/SARIMA), risk classification (XGBoost, SVM, 0.84 AUC), churn prediction |
+| 📝 **NLP & Text Intelligence** | BERT/LLM fine-tuning for document extraction, OCR + IDP pipelines (AWS Textract, PaddleOCR), HITL confidence scoring, sentiment analysis |
+| 📈 **Predictive Modeling & Forecasting** | Credit fraud detection, demand/staffing forecasting (ARIMA/SARIMA), risk classification, churn prediction |
 | ⚡ **HPC & Distributed Computing** | DDP/FSDP on H100 GPU clusters (NCCL/Gloo), Dask + multiprocessing on 6M+ records, 91% parallel efficiency across 16 GPUs, PySpark ETL on 1.5TB+ data |
 | 📦 **Data Engineering & MLOps** | PySpark + Databricks pipelines, Kafka real-time streaming, Airflow orchestration, CI/CD via GitHub Actions, Redshift/BigQuery/Snowflake warehousing |
-| 📊 **Stakeholder Delivery** | Tableau/Power BI/Looker dashboards, Confluence reporting, C-suite insights, $1.2M+ in documented AI-driven cost savings |
+| 📊 **Stakeholder Delivery** | Tableau/Power BI/Looker dashboards, Confluence reporting, C-suite insights and reporting |
 
 ---
 
