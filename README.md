@@ -20,13 +20,13 @@
 
 > *"I don't just build models — I build systems that make decisions at scale."*
 
-I'm an **AI/ML & Data Science Engineer** with 3+ years of industry experience across the full ML lifecycle — from raw data ingestion to deployed LLM-powered products. I've shipped work at **WHOOP** and **Quantiphi**, driving over **$1.2M+ in documented cost savings** and building systems that process **billions of records**.
+I am an **AI/ML and Data Science Engineer** with 3+ years of experience spanning the full spectrum of applied machine learning: designing and shipping production-grade pipelines at **WHOOP** and **Quantiphi**, processing **1.5TB+ time-series records**, running **NLP and transformer-based document intelligence** systems, and building **LLM-powered agentic workflows** with real business impact. On the analytics side, I translate complex model outputs into stakeholder-ready dashboards, causal analyses, and cost-benefit decisions across cross-functional teams.
 
-My sweet spot lives at the intersection of **Generative AI**, **Agentic Systems**, **Computer Vision**, and **scalable data pipelines**.
+My work sits at the intersection of **Generative AI**, **Agentic Systems**, **Computer Vision**, **NLP**, and **scalable data engineering**, with a strong emphasis on responsible, explainable, and production-ready AI.
 
 - 🎓 **MS Computer Software Engineering** — Northeastern University
 - 🏆 **IEEE Best Paper Award** — Speech Emotion Recognition using 1D CNN-LSTM
-- 🤖 Obsessed with: Multi-agent AI, RAG, Computer Vision, and real-world ML deployment
+- 🤖 Focused on: Multi-agent AI, RAG, Computer Vision, HPC, and real-world ML deployment
 - 📍 Based in the **USA**, open to full-time roles in AI/ML/Data Science
 
 ---
@@ -124,68 +124,6 @@ My sweet spot lives at the intersection of **Generative AI**, **Agentic Systems*
 
 ---
 
-## 🚀 Projects
-
-### 🏥 DocIntel AI — Claims Automation System
-> *Generative AI · LLM · RAG · Vector Databases · Multi-Agent · Streamlit* &nbsp;|&nbsp; Jan 2026
-
-- 🔍 OCR + NLP pipeline with **Pinecone vector indexing** → **8ms query response time**
-- 🤖 **RAG system** using Gemini LLM + LangChain → **88% answer relevancy (RAGAS)**
-- ✅ **HITL Streamlit interface** for underwriters — reducing manual search time by **30 minutes**
-
----
-
-### 💳 Credit Card Fraud Risk Detection
-> *Big Data · Anomaly Detection · Real-Time Monitoring* &nbsp;|&nbsp; Dec 2025
-
-- ⚙️ **PySpark pipeline in Databricks** processing **6M+ transactions** from Hive with velocity, merchant & location features
-- 🧠 Ensemble models (**Isolation Forest + Autoencoders**) → **92% recall**
-- 📡 Deployed via **Kafka** for real-time streaming fraud detection
-
----
-
-### 🚗 Autonomous Driving 3D Scene Reconstruction
-> *Computer Vision · Generative AI · OpenCV · PyTorch* &nbsp;|&nbsp; Nov 2024
-
-- 🧠 Perception stack using **ResNet, ViT, and DepthAnythingV2** for lane detection and depth estimation → **28% higher BEV spatial accuracy** using RGB images, LiDAR, and depth maps
-- 🌐 Benchmarked **BevFormer, MapTR, Detr3D, and EmerNeRF** for 3D scene reconstruction → **+25% detection, +22% accuracy**
-
----
-
-### 🎯 Real-Time Face Tracking & Landmark Detection
-> *Real-Time Systems · Object Detection · Backend Development* &nbsp;|&nbsp; Sept 2025
-
-- 👁️ **YOLOv8-Face** at **30 FPS** + Dlib landmark extraction + **DeepSORT** tracking, deployed as RESTful API (Flask + MongoDB)
-- ⚡ **TensorRT INT8 quantization** → latency reduced to **33ms**; live dashboard via **WebSockets** with alert triggers
-
----
-
-### 🧠 Amazon Reviews Sentiment Analysis with Parallel Computing
-> *NLP · HPC · Distributed Training · PyTorch · Azure ML* &nbsp;|&nbsp; Mar 2025
-
-- ⚙️ **Dask + multiprocessing** on **6M+ reviews** → **47% memory footprint reduction** via chunking
-- 🚀 **DDP + FSDP** using NCCL/Gloo backend on **H100** → **91% parallel efficiency across 16 GPUs**
-- 🏆 Benchmarked **Random Forest, XGBoost, and LSTM**; deployed via **Azure ML**
-
----
-
-### 🚚 SupplyCast AI — Supply Chain Forecasting
-> *AI Agents · Responsible AI · Cloud Deployment* &nbsp;|&nbsp; Nov 2024
-
-- 🤖 **4 CrewAI agents** powered by **Gemini 1.5 Pro** → **38% faster decision cycles**
-- 🔗 **MCP + A2A protocols** with **92% successful agent handoffs**
-- ☁️ Logistics agent on **Google Cloud Run** → **31% delivery cost reduction**
-
----
-
-### 📣 Multi-Channel Ad Performance Analyzer
-> *Marketing Mix Modeling · Attribution · Tableau · SQL* &nbsp;|&nbsp; Dec 2025
-
-- 📐 **MMM regression** on **500K+ impressions** → **18% improvement** in predicted campaign efficiency
-- 📊 Tableau dashboard tracking CTR, CPA, and spend patterns for data-driven budget reallocation
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -193,8 +131,6 @@ My sweet spot lives at the intersection of **Generative AI**, **Agentic Systems*
 🏅 **IEEE Best Paper Award** — *Speech Emotion Recognition Using 1D CNN-LSTM on Indo-Aryan Database* (Oct 2022)
 
 🥇 **Winner** — *National-Level Techcult AI Competition* — Speech Emotion Recognition: Classification, CNN-RNN, BERT & Multilingual Audio Modeling
-
-💰 **$1.2M+** in documented annual cost savings across AI/ML systems built in production
 
 </div>
 
